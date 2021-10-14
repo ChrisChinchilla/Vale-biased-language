@@ -2,7 +2,7 @@
 
 ## Our software
 
-Our software is simple to understand, and it's just a database with a master and slave node setup. Anyone can understand it easily.
+Our software is simple to understand, as it's just a database with a master and slave node setup. Anyone can understand it easily.
 
 We control access to the database with whitelist, and deny access to any IP addresses on a blacklist. The database sees the list, and thinks what to do about anyone on it.
 
